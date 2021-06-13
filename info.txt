@@ -1,0 +1,10 @@
+----- color
+
+#FEA29A
+
+-----social-media
+
+<i class="fab fa-facebook-f">
+<i class="fab fa-instagram">
+<i class="fab fa-twitter">
+<i class="fab fa-pinterest-p">
